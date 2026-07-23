@@ -6,7 +6,7 @@
 
 ### broad findings
 
-- High performaing organizations will accelerate:
+- High performing organizations will accelerate:
   - delivery of goods and services
   - engagement with the market 
   - anticipate reulatory and compliance issues
@@ -14,7 +14,7 @@
 
 - Software and tech are key differentiators for orgs in the delivery of value to customers and stakeholders
 - strategic use of technology explains revenue and producitvity gains MORE than mergers, acquisitions and entrepreneurship
-- link has been foud between use of technology and profitablity
+- link has been found between use of technology and profitablity
 
 - devops has emerged as a key factor in differentiating orgs
   - the answer to how do we build secure resiliant rapidly evolving sistributed systems at scale
